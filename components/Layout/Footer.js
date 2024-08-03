@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <h1>Foote22r</h1>
+            <h1>Foote22testr</h1>
           </div>
         </div>
       </div>
