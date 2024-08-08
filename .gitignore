@@ -34,3 +34,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# See: https://deb.nodesource.com/ for installing Node.js on the server
+
